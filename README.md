@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👾, I'm Vanshika K.</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=Cinnameldehyde&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Cinnameldehyde&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cinnameldehyde&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
 # About Me
 
 - 🎀 Final-year engineering student with a strong interest in building real-world AI applications.
@@ -26,3 +22,7 @@
 </p>
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinnameldehyde&label=Profile%20views&color=e647b4&style=flat-square" alt="cinnameldehyde" /> </p>
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=Cinnameldehyde&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cinnameldehyde&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
