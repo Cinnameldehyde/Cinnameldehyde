@@ -22,7 +22,3 @@
 </p>
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinnameldehyde&label=Profile%20views&color=e647b4&style=flat-square" alt="cinnameldehyde" /> </p>
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=Cinnameldehyde&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cinnameldehyde&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
