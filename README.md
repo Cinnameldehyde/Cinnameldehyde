@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👾, I'm Vanshika K.</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👾, I'm Vanshika Kapoor</h1>
+<h3 align="center">A passionate full stack developer and AI enthusiast from India</h3>
 
 # About Me
 
