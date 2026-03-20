@@ -9,7 +9,6 @@
 - 🏫 Learning advanced tools like **LangGraph** and vector databases to build smart AI systems.
 - 🗣️ Ready to join a team where I can build useful apps, learn fast, and make a real impact.
 - 📫 How to reach me **vanshika.kapur24@gmail.com**
-- 📄 Know about my experiences [portfolio](https://docs.google.com/document/d/1oPz2WzLYKRxImIO8z-fHq8jTNq1Gyou6n4u6IwQf1i0/edit?usp=sharing)
 
 
 ## 💻 Tech Stack:
