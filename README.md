@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👾, I'm Vanshika Kapoor</h1>
+<h1 align="center">Hi 👾, I'm <a href="https://venyx.me"> Vanshika Kapoor </a> </h1>
 <h3 align="center">A passionate full stack developer and AI enthusiast from India</h3>
 
 # About Me
 
-- 🎀 Final-year engineering student with a strong interest in building real-world AI applications.
+- 🎀 2026 B. Tech Graduate with a strong interest in building real-world AI applications.
 - ☠️ Experienced in working with **large language models (LLMs), React, and mobile/web development.**
 - 😋 Enjoy solving problems using AI and making apps that are easy and fun to use.
 - 🏫 Learning advanced tools like **LangGraph** and vector databases to build smart AI systems.
